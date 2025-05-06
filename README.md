@@ -58,15 +58,6 @@ Preprocessing includes resizing, normalization, and transformation for binary se
 - **False Positives**: 51,190  
 - **False Negatives**: 46,442  
 
----
-
-## 🖼 Visual Outputs
-
-Sample masks demonstrate effective segmentation of various object types:
-
-- Rusted fire hydrants
-- Cats amidst clutter
-- Military tanks in challenging scenes
 
 The GAN improves segmentation sharpness, but boundary precision still presents challenges.
 
